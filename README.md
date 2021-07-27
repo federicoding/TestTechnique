@@ -2,7 +2,7 @@
 
 This folder contains the Technical Test I had to realize for an interview (without mentioning the company I'm doing it for).
 
-I do realize that I started (and did, in fact) all of the work in French, and juste switched to English for this Readme. Please excuse me for that.
+I do realize that I started (and did, in fact) all of the work in French, and just switched to English for this Readme. Please excuse me for that.
 
 ## The questions
 
