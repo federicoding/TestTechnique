@@ -7,7 +7,9 @@ I do realize that I started (and did, in fact) all of the work in French, and ju
 ## The questions
 
 Here follows the different questions that were asked:
+
 What we want you to do is to create a python program that is able to import this dataset inside a MongoDB.
+
 What we need is:
 *   Using jupyter notebook or another similar solution, group all transactions by invoice
 *   Using jupyter notebook or another similar solution, which product sold the most?
