@@ -34,6 +34,7 @@ I realized this Evaluation in two steps
 This is done in the notebook **Mise_en_place**
 
 I do need to mention that I modified the CSV with Excel to get rid of the £ symbols (replacing them with the code GBP)
+And then I uploaded the CSV to the Git and then uploaded it.
 
 ### Step 2 : The Assesment
 This is done in the notebook **Analyse**
