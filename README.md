@@ -35,12 +35,16 @@ I realized this Evaluation in two steps
 ### Step 1 : storing the dataset in a MongoDB
 This is done in the notebook **Mise_en_place**
 
-I do need to mention that I modified the CSV with Excel to get rid of the £ symbols (replacing them with the code GBP)
-And then I uploaded the CSV to the Git and then uploaded it.
+I do need to mention that I modified the CSV with Excel to get rid of the £ symbols (replacing them with the code GBP).
+
+And then I uploaded the CSV to the Git and then to the MongoDB.
 
 ### Step 2 : The Assesment
 This is done in the notebook **Analyse**
-This analysis is a classic one, with a long first part for data cleaning, looking at the different variables etc etc
+This analysis is a classic one, with a long first part for data cleaning, looking at the different variables etc etc..
+
 And a second part consisting of the answers to the different questions.
+
+Some questions were open to interpretation, but I did discuss the choices in the notebook.
 
 All in all, it was fun and I enjoyed doing it.
